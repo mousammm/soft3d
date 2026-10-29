@@ -1,4 +1,9 @@
-# simple software renderer
+# soft3d
+
+Simple software renderer in C.
+
+![bunny](./assets/bunny.png)
+![teapot](./assets/teapot.png)
 
 ## building and running
 - *dependencies*: gcc, make, SDL2
