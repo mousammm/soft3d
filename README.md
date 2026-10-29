@@ -1,9 +1,10 @@
 # simple software renderer
 
 ## building and running
+- *dependencies*: gcc, make, SDL2
 ```
-// sdl2 required
-$ make && make run
+$ make
+$ ./build/sr <path/to/model.obj>
 ```
 
 ## References
