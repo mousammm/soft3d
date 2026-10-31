@@ -1,7 +1,9 @@
 # soft3d
-
 Simple software renderer in C.
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/mousammm/badge.svg)](https://hub.xerj.org/contributors/mousammm)
+
+# demos
 ![bunny](./assets/bunny.png)
 ![teapot](./assets/teapot.png)
 
