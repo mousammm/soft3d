@@ -8,7 +8,6 @@ SRC=src/main.c \
 	src/depthbuf.c \
     src/mesh.c \
 	src/mat.c \
-	src/vec.c \
 	src/sh_gfx.c
 
 all:
